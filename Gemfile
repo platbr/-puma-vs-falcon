@@ -56,4 +56,4 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "falcon", "~> 0.48.2"
+gem "falcon", "~> 0.48.3"
